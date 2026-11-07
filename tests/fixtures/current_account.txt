@@ -1,0 +1,14 @@
+EXAMPLE BANK PLC                      Current Account Statement
+Mr A Sample                           Sort code 11-22-33   Account number 12345678
+Statement period 01/03/2026 to 31/03/2026
+
+Date         Description                              Paid out     Paid in      Balance
+01/03/2026   BALANCE BROUGHT FORWARD                                            1,543.21
+01/03/2026   SO LANDLORD RENT                         1,250.00                  293.21
+05/03/2026   DD BT GROUP PLC                          35.99                     257.22
+             CARD PAYMENT TO TESCO STORES 3021        42.50                     214.72
+20/03/2026   BARCLAYCARD PAYMENT                      500.00                    -285.28
+25/03/2026   BGC ACME WIDGETS LTD SALARY                           3,200.00     2,914.72
+31/03/2026   BALANCE CARRIED FORWARD                                            2,914.72
+
+Overdraft limit 500.00. Money in 3,200.00  Money out 1,828.49

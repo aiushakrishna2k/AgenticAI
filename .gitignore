@@ -1,0 +1,38 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing / tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets (e.g. ANTHROPIC_API_KEY loaded via python-dotenv)
+.env
+.env.*
+
+# Local SQLite database with your transaction data
+expense_tracker/data/*.db
+expense_tracker/data/*.db-journal
+*.sqlite3
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Uploaded bank statements
+*.pdf
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store

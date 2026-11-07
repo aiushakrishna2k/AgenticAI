@@ -1,0 +1,13 @@
+EXAMPLE CARD SERVICES                 Credit Card Statement
+Card number 4929 **** **** 9012
+Statement date 25 Mar 2026     Credit limit £3,000.00     Minimum payment £25.00
+Payment due 15 Apr 2026        Purchase rate APR 24.9%
+
+Previous balance                                    £520.00
+New balance                                         £50.99
+
+Date        Description                             Amount
+28 Feb      NETFLIX.COM                             10.99
+02 Mar      AMAZON MARKETPLACE                      29.99
+09 Mar      AMAZON MARKETPLACE REFUND               29.99 CR
+22 Mar      PAYMENT RECEIVED - THANK YOU            500.00 CR

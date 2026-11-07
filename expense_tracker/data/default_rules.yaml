@@ -1,0 +1,245 @@
+# Default UK merchant keyword -> category rules.
+# Patterns are matched case-insensitively as whole words against the
+# normalised merchant AND the raw description. User rules (saved from
+# corrections in the UI) always take priority over these.
+Salary/Income:
+  - SALARY
+  - PAYROLL
+  - WAGES
+  - BGC SALARY
+  - HMRC TAX CREDIT
+  - CHILD BENEFIT
+  - INTEREST PAID
+Rent/Mortgage:
+  - RENT
+  - MORTGAGE
+  - NATIONWIDE MORTGAGE
+  - HALIFAX MORTGAGE
+  - OPENRENT
+Council Tax:
+  - COUNCIL TAX
+  - COUNCIL
+  - BOROUGH
+Utilities:
+  - OCTOPUS ENERGY
+  - OCTOPUS
+  - BRITISH GAS
+  - EDF
+  - E.ON
+  - EON NEXT
+  - OVO
+  - SCOTTISH POWER
+  - SSE
+  - BULB
+  - THAMES WATER
+  - SEVERN TRENT
+  - ANGLIAN WATER
+  - UNITED UTILITIES
+  - YORKSHIRE WATER
+  - SOUTHERN WATER
+  - AFFINITY WATER
+Internet & Phone:
+  - BT
+  - BT GROUP
+  - SKY
+  - VIRGIN MEDIA
+  - PLUSNET
+  - TALKTALK
+  - HYPEROPTIC
+  - COMMUNITY FIBRE
+  - VODAFONE
+  - EE
+  - O2
+  - THREE
+  - GIFFGAFF
+  - LEBARA
+  - VOXI
+  - SMARTY
+  - ID MOBILE
+Groceries:
+  - TESCO
+  - SAINSBURYS
+  - SAINSBURY
+  - ASDA
+  - MORRISONS
+  - WAITROSE
+  - ALDI
+  - LIDL
+  - CO-OP
+  - COOP
+  - ICELAND
+  - M&S FOOD
+  - MARKS&SPENCER SIMPLY FOOD
+  - OCADO
+  - FARMFOODS
+Eating Out:
+  - DELIVEROO
+  - JUST EAT
+  - UBER EATS
+  - MCDONALDS
+  - NANDOS
+  - PRET
+  - PRET A MANGER
+  - GREGGS
+  - STARBUCKS
+  - COSTA
+  - CAFFE NERO
+  - KFC
+  - BURGER KING
+  - WAGAMAMA
+  - PIZZA EXPRESS
+  - DOMINOS
+  - LEON
+  - ITSU
+  - WASABI
+  - PUB
+  - RESTAURANT
+  - CAFE
+Transport:
+  - TFL
+  - TFL TRAVEL CH
+  - TRAINLINE
+  - LNER
+  - GWR
+  - AVANTI
+  - SOUTHERN RAIL
+  - SOUTHEASTERN
+  - THAMESLINK
+  - NATIONAL RAIL
+  - NATIONAL EXPRESS
+  - UBER
+  - BOLT
+  - ADDISON LEE
+  - LIME
+  - RINGGO
+  - PAYBYPHONE
+  - JUSTPARK
+  - DVLA
+Fuel:
+  - SHELL
+  - BP
+  - ESSO
+  - TEXACO
+  - JET
+  - GULF
+  - TESCO PETROL
+  - SAINSBURYS PETROL
+Shopping:
+  - AMAZON
+  - AMZN
+  - AMZN MKTP
+  - EBAY
+  - ARGOS
+  - JOHN LEWIS
+  - NEXT
+  - PRIMARK
+  - ZARA
+  - H&M
+  - ASOS
+  - BOOTS
+  - SUPERDRUG
+  - IKEA
+  - B&Q
+  - CURRYS
+  - TK MAXX
+  - MARKS & SPENCER
+  - MARKS&SPENCER
+  - APPLE STORE
+  - ETSY
+  - SHEIN
+  - TEMU
+  - WILKO
+  - THE RANGE
+  - DUNELM
+Subscriptions:
+  - NETFLIX
+  - SPOTIFY
+  - DISNEY PLUS
+  - DISNEYPLUS
+  - AMAZON PRIME
+  - PRIME VIDEO
+  - APPLE.COM/BILL
+  - APPLE.COM
+  - GOOGLE STORAGE
+  - GOOGLE ONE
+  - YOUTUBE PREMIUM
+  - NOW TV
+  - NOWTV
+  - TV LICENCE
+  - TV LICENSING
+  - AUDIBLE
+  - MICROSOFT
+  - ADOBE
+  - PATREON
+  - ICLOUD
+  - CHATGPT
+  - OPENAI
+  - CLAUDE.AI
+  - ANTHROPIC
+Entertainment:
+  - CINEWORLD
+  - ODEON
+  - VUE
+  - TICKETMASTER
+  - SEE TICKETS
+  - STEAM
+  - PLAYSTATION
+  - XBOX
+  - NINTENDO
+  - BET365
+  - NATIONAL LOTTERY
+Health:
+  - PHARMACY
+  - LLOYDS PHARMACY
+  - SPECSAVERS
+  - DENTAL
+  - DENTIST
+  - NHS
+  - PUREGYM
+  - THE GYM GROUP
+  - GYM
+  - DAVID LLOYD
+  - BUPA
+  - VITALITY
+Insurance:
+  - INSURANCE
+  - AVIVA
+  - ADMIRAL
+  - DIRECT LINE
+  - LV=
+  - AXA
+  - CHURCHILL
+  - HASTINGS
+  - LEGAL & GENERAL
+  - ZURICH
+  - ROYAL LONDON
+Travel:
+  - EASYJET
+  - RYANAIR
+  - BRITISH AIRWAYS
+  - JET2
+  - WIZZ AIR
+  - BOOKING.COM
+  - AIRBNB
+  - EXPEDIA
+  - HOTELS.COM
+  - PREMIER INN
+  - TRAVELODGE
+  - EUROSTAR
+  - HERTZ
+  - EUROPCAR
+Cash Withdrawal:
+  - CASH
+  - ATM
+  - CASH WITHDRAWAL
+  - LINK ATM
+Fees & Interest:
+  - INTEREST CHARGED
+  - INTEREST CHARGE
+  - LATE PAYMENT FEE
+  - OVERDRAFT
+  - NON-STERLING TRANSACTION FEE
+  - NON STERLING TRANSACTION FEE
+  - FOREIGN TRANSACTION FEE
+  - ANNUAL FEE
+  - ACCOUNT FEE
